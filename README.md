@@ -1,5 +1,5 @@
 ## 👋 Hi, My name is Giannis Dilmperis    
-Mathematician with a PhD in AI, exploring how modern technology can solve real-world problems.
+Mathematician with a PhD in AI, exploring how modern technology can solve real-life problems.
 
 ---
 
