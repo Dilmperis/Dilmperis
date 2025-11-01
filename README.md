@@ -1,10 +1,9 @@
 ## 👋 Hi, My name is Giannis Dilmperis    
 Mathematician with a PhD in AI, exploring how modern technology can solve real-life problems.
 
-![Me_Online_Object_Detection](https://github.com/user-attachments/assets/5168bb1e-9bd0-498a-928f-e63e9323f9d5)
+![Me_Online_Object_Detection](https://github.com/user-attachments/assets/cdef8a0d-097c-4ac9-8abd-e47206bdb1bd)
 
 ---
-
 📫 How to reach me: 
 - e-Mail: dilmperis@hotmail.com
 
