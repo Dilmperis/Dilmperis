@@ -9,7 +9,7 @@ Mathematician with a PhD in AI, exploring how modern technology can solve real-l
 [📧 - e-Mail](mailto:dilmperis@hotmail.com)
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dilmperis/Dilmperis/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Dilmperis/Dilmperis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
