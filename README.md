@@ -9,7 +9,7 @@ Mathematician with a PhD in AI, exploring how modern technology can solve real-l
 [📧 - e-Mail](mailto:dilmperis@hotmail.com)
 
 
-![GitHub Snake dark](https://raw.githubusercontent.com/<username>/<username>/output/snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/Dilmperis/Dilmperis/blob/output/github-snake-dark.svg)
 
 
 <!--
