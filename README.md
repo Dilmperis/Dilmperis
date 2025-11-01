@@ -8,8 +8,6 @@ Mathematician with a PhD in AI, exploring how modern technology can solve real-l
 
 [📧 - e-Mail](mailto:dilmperis@hotmail.com)
 
-
-
 <!--
 **Dilmperis/Dilmperis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
