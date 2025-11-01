@@ -17,6 +17,14 @@ Mathematician with a PhD in AI, exploring how modern technology can solve real-l
 -->
 
 
+![Ask me anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c)
+![Let's Connect](https://img.shields.io/badge/Let's-Connect-0A66C2?logo=linkedin&logoColor=white)
+
+<!--badge shields clickable::
+[![release](https://img.shields.io/badge/release-v3.3.0-blue)](https://github.com/Dilmperis/Dilmperis/releases)
+-->
+
+
 ---
 
 <h2> &nbsp;Some tools I have used and learned: </h2>
