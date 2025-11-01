@@ -6,7 +6,7 @@ Mathematician with a PhD in AI, exploring how modern technology can solve real-l
 ---
 📫 How to reach me: 
 
-[📧](mailto:dilmperis@hotmail.com)
+[📧 - e-Mail](mailto:dilmperis@hotmail.com)
 
 
 
