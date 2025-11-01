@@ -1,6 +1,7 @@
 ## 👋 Hi, My name is Giannis Dilmperis    
 Mathematician with a PhD in AI, exploring how modern technology can solve real-life problems.
-![Me_Online_Object_Detection](https://github.com/user-attachments/assets/b79abf18-130d-4e86-9f6d-d91f08b300cd)
+
+![Me_Online_Object_Detection](https://github.com/user-attachments/assets/5168bb1e-9bd0-498a-928f-e63e9323f9d5)
 
 ---
 
