@@ -13,8 +13,8 @@ Mathematician and a PhD(c) in AI, exploring how modern technology can solve real
 [📧 - e-Mail](mailto:dilmperis@hotmail.com)
 
 <!--   I COMMENTED OUT THE SNAKE GIF:
-![snake gif](https://github.com/Dilmperis/Dilmperis/blob/output/github-snake-dark.svg) 
 -->
+![snake gif](https://github.com/Dilmperis/Dilmperis/blob/output/github-snake-dark.svg) 
 
 
 ![Ask me anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c)
