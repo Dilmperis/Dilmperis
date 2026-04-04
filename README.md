@@ -10,8 +10,8 @@ Mathematician with an MSc in AI, exploring how modern technology can solve real-
 
 📫 How to reach me: 
 
-[📧 - e-Mail](mailto:dilmperis@hotmail.com)  
-[🌐 - Website](www.dilmperis.com)
+[📧 - eMail](mailto:dilmperis@hotmail.com)  
+[🌐 - Website](https://www.dilmperis.com)
 
 <!--   I COMMENTED OUT THE SNAKE GIF:
 ![snake gif](https://github.com/Dilmperis/Dilmperis/blob/output/github-snake-dark.svg) 
