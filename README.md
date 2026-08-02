@@ -1,25 +1,34 @@
+
+
+
+
 ## 👋 Hi, My name is Giannis Dilmperis    
 Mathematician with an MSc in AI, studying how modern technology can solve real-life problems.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/cdef8a0d-097c-4ac9-8abd-e47206bdb1bd" alt="Me Online Object Detection" />
 </p>
+ -->
+---
+
+<p align="center"> A short preview of my personal website: </p>
+
+<p align="center"> <img width="800" height="450" alt="Website_page" src="https://github.com/user-attachments/assets/9367635e-2fd6-4835-a819-940b69024293" /></p>
+
+<br>
 
 
+<p align="center"> <a href="https://www.dilmperis.com"> <img src="https://img.shields.io/badge/OPEN%20LIVE%20WEBSITE-Visit%20Now-1677ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the live personal website" /> </a> </p>
 
-
-📫 How to reach me: 
-
-[📧 - eMail](mailto:dilmperis@hotmail.com)  
-[🌐 - Website](https://www.dilmperis.com)
 
 <!--   I COMMENTED OUT THE SNAKE GIF:
 ![snake gif](https://github.com/Dilmperis/Dilmperis/blob/output/github-snake-dark.svg) 
 -->
 
 
-![Ask me anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c)
+<!--![Ask me anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c)
 ![Let's Connect](https://img.shields.io/badge/Let's-Connect-0A66C2?logo=linkedin&logoColor=white)
+-->
 
 <!--badge shields clickable::
 [![release](https://img.shields.io/badge/release-v3.3.0-blue)](https://github.com/Dilmperis/Dilmperis/releases)
