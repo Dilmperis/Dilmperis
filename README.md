@@ -19,7 +19,7 @@ Mathematician with an MSc in AI, studying how modern technology can solve real-l
 <br>
 
 
-<p align="center"> <a href="https://www.dilmperis.com"> <img src="https://img.shields.io/badge/OPEN%20LIVE%20WEBSITE-Visit%20Now-1677ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the live personal website" /> </a> </p>
+<p align="center"> <a href="https://www.dilmperis.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/OPEN%20LIVE%20WEBSITE-Visit%20Now-1677ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the live personal website" /> </a> </p>
 
 
 <!--   I COMMENTED OUT THE SNAKE GIF:
