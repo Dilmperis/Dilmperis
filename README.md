@@ -26,7 +26,7 @@ Mathematician with an MSc in AI, studying how modern technology can solve real-l
     rel="noopener noreferrer"
   >
     <img
-      src="https://img.shields.io/badge/OPEN%20LIVE%20WEBSITE-Visit%20Now-1677ff?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/OPEN%20WEBSITE-Visit%20Now-1677ff?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Open the live personal website"
     />
   </a>
