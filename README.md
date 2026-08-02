@@ -14,7 +14,7 @@ Mathematician with an MSc in AI, studying how modern technology can solve real-l
 
 <p align="center"> A short preview of my personal website: </p>
 
-<p align="center"> <img width="700" height="400" alt="My_website" src="https://github.com/user-attachments/assets/ecdc0131-303c-471d-8415-b96567d9d90c" /> </p>
+<p align="center"> <img width="800" height="450" alt="My_website" src="https://github.com/user-attachments/assets/ecdc0131-303c-471d-8415-b96567d9d90c" /> </p>
 
 <br>
 
