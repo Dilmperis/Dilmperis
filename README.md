@@ -16,9 +16,6 @@ Mathematician with MSc in AI, studying how modern technology can solve real-life
 
 <p align="center"> <img width="800" height="450" alt="My_website" src="https://github.com/user-attachments/assets/ecdc0131-303c-471d-8415-b96567d9d90c" /> </p>
 
-<br>
-
-
 
 <!--   I COMMENTED OUT THE SNAKE GIF:
 ![snake gif](https://github.com/Dilmperis/Dilmperis/blob/output/github-snake-dark.svg) 
@@ -32,8 +29,6 @@ Mathematician with MSc in AI, studying how modern technology can solve real-life
 <!--badge shields clickable::
 [![release](https://img.shields.io/badge/release-v3.3.0-blue)](https://github.com/Dilmperis/Dilmperis/releases)
 -->
-
-
 ---
 
 <h2> &nbsp;Some tools I have used and learned: </h2>
