@@ -3,7 +3,7 @@
 
 
 
-## 👋 Hi, My name is Giannis Dilmperis    
+## 👋 Hi, I am Giannis 
 Mathematician with MSc in AI, studying how modern technology can solve real-life problems.
 
 <!-- <p align="center">
