@@ -4,7 +4,7 @@
 
 
 ## 👋 Hi, I am Giannis 
-Mathematician with MSc in AI, studying how modern technology can solve real-life problems.
+Mathematician with MSc in AI, studying how technology can solve real life problems.
 
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/cdef8a0d-097c-4ac9-8abd-e47206bdb1bd" alt="Me Online Object Detection" />
