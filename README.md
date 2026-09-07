@@ -34,6 +34,7 @@ Mathematician with MSc in AI, studying how modern technology can solve real-life
   <img
     src="https://komarev.com/ghpvc/?username=Dilmperis&label=Profile%20views&color=0e75b6&style=flat"
     alt="Profile views"
+    width="120"
   />
 </p>
 
