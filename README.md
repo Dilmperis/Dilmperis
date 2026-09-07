@@ -29,6 +29,14 @@ Mathematician with MSc in AI, studying how modern technology can solve real-life
 <!--badge shields clickable::
 [![release](https://img.shields.io/badge/release-v3.3.0-blue)](https://github.com/Dilmperis/Dilmperis/releases)
 -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Dilmperis&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
+
 ---
 
 <h2> &nbsp;Some tools I have used and learned: </h2>
